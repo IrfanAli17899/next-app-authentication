@@ -1,4 +1,9 @@
+"use client"
 import Image from 'next/image'
+
+async function serverAction() {
+  
+}
 
 export default function Home() {
   return (
